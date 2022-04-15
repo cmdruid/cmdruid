@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cmdruid
-- 👀 I’m interested in full-stack development and immersive web applications.
-- 🌱 I’m currently learning cross-platform and mobile development.
+- 👋 Hi, I’m @cmd
+- 👀 I’m interested in full-stack development and web / mobile applications.
+- 🌱 I’m currently learning bitcoin and lightning development.
 - 💞️ I’m looking to collaborate on the next big thing!
 - 📫 How to reach me: cscottdev@protonmail.com
 
