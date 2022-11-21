@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmd
-- 👀 I’m interested in full-stack development and web / mobile applications.
-- 🌱 I’m currently learning bitcoin and lightning development.
-- 💞️ I’m looking to collaborate on the next big thing!
+- 👾 Hi, I’m @cmd
+- 🧠 I’m interested in Bitcoin / Lightning / Nostr development.
+- 🌽 Currently stacking sats. Not your keys, not your coin.
+- 💞️ I’m looking to collaborate on programmable money.
 - 📫 How to reach me: cscottdev@protonmail.com
 
 <!---
