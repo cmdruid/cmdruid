@@ -1,6 +1,6 @@
 - 👾 Hi, I’m @cmd
-- 🧠 I’m interested in Bitcoin / Lightning / Nostr development.
-- 🌽 Currently stacking sats. Not your keys, not your coin.
+- 🧠 I’m interested in AI / Bitcoin / Nostr development.
+- 🌽 Currently stacking sats and building a money printer.
 - 💞️ I’m looking to collaborate on programmable money.
 - 📫 How to reach me: cscottdev@protonmail.com
 
