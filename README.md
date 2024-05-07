@@ -8,7 +8,7 @@
     Nostr : cmd@proof0.work  
   
 - ⚡  How to donate:  
-  BTC   : bc1qnx8julmud2vqdqngxw9rmuv3js67kq9rzvtmm5
+  BTC   : bc1qnx8julmud2vqdqngxw9rmuv3js67kq9rzvtmm5  
   LNURL : cmd@stacker.news
 
 <!---
