@@ -8,8 +8,8 @@
     Nostr : cmd@proof0.work  
   
 - ⚡  How to donate:  
-  BTC   : bc1pmnpqw0ajvwynzjy3hyg5pu09mku3q8ue0a9q723qpes7dwtl45esp49gwr  
-  LNURL : cmd@getalby.com  
+  BTC   : bc1qnx8julmud2vqdqngxw9rmuv3js67kq9rzvtmm5
+  LNURL : cmd@stacker.news
 
 <!---
 cmdruid/cmdruid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
